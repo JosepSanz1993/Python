@@ -1,0 +1,254 @@
+{
+    "list_of_music":[
+        {
+            "Topic": "Colgando en tus manos",
+            "Mean Author": "Carlos Baute",
+            "Other Author": "Marta Sánchez",
+            "Year": "2009",
+            "Weeks": "27",
+            "Country": "Venezuela",
+            "Language": "Spanish",
+            "Continent": "South-America"
+        },
+        {
+            "Topic": "Despacito",
+            "Mean Author": "Luis Fonsi",
+            "Other Author": "Daddy Yankee",
+            "Year": "2017",
+            "Weeks": "26",
+            "Country": "Puerto Rico",
+            "Language": "Spanish",
+            "Continent": "Nord-America"
+        },
+        {
+            "Topic": "You're the One That I Want",
+            "Mean Author": "John Travolta",
+            "Other Author":"Olivia Newton-John",
+            "Year": "1978",
+            "Weeks": "20",
+            "Country": "USA",
+            "Language": "English",
+            "Continent": "Nord-America"
+        },
+        {
+            "Topic": "Bailando",
+            "Mean Author": "Enrique Iglesias",
+            "Other Author":"Descemer Bueno y Gente de Zona",
+            "Year": "2014",
+            "Weeks": "20",
+            "Country": "Spain",
+            "Language": "Spanish",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "El Perdón",
+            "Mean Author": "Enrique Iglesias",
+            "Other Author":"Nicky Jam",
+            "Year": "2015",
+            "Weeks": "18",
+            "Country": "Spain",
+            "Language": "Spanish",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "Sorry",
+            "Mean Author": "Justin Bieber",
+            "Other Author":"NONE",
+            "Year": "2015",
+            "Weeks": "17",
+            "Country": "Canada",
+            "Language": "English",
+            "Continent": "Nord-America"
+        },
+        {
+            "Topic": "Waka Waka (Esto es África)",
+            "Mean Author": "Shakira",
+            "Other Author":"NONE",
+            "Year": "2010",
+            "Weeks": "17",
+            "Country": "Colombia",
+            "Language": "Spanish",
+            "Continent": "South-America"
+        },
+        {
+            "Topic": "Tusa",
+            "Mean Author": "Karol G",
+            "Other Author":"Nicky Jam",
+            "Year": "2019",
+            "Weeks": "16",
+            "Country": "Colombia and Trinidad and Tobago",
+            "Language": "Spanish",
+            "Continent": "South-America"
+        },
+        {
+            "Topic": "Gimme Hope Jo'anna",
+            "Mean Author": "Eddy Grant",
+            "Other Author":"NONE",
+            "Year": "1988",
+            "Weeks": "15",
+            "Country": "Guyana",
+            "Language": "English",
+            "Continent": "South-America"
+        },
+        {
+            "Topic": "On the Floor",
+            "Mean Author": "Jennifer López",
+            "Other Author":"Pitbull",
+            "Year": "2011",
+            "Weeks": "15",
+            "Country": "USA",
+            "Language": "English",
+            "Continent": "Nord-America"
+        },
+        {
+            "Topic": "Voyage, Voyage",
+            "Mean Author": "Desireless",
+            "Other Author":"NONE",
+            "Year": "1987",
+            "Weeks": "15",
+            "Country": "France",
+            "Language": "French",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "Yo Te Esperaré ",
+            "Mean Author": "Cali",
+            "Other Author": "El Dandee",
+            "Year": "2012",
+            "Weeks": "15",
+            "Country": "Colombia",
+            "Language":"Spanish",
+            "Continent":"Europe"
+        },
+        {
+            "Topic": "Ai Se Eu Te Pego",
+            "Mean Author": "Michel Teló",
+            "Other Author": "NONE",
+            "Year": "2011",
+            "Weeks": "14",
+            "Country": "Brasil",
+            "Language": "Portuguese",
+            "Continent": "South-America"
+        },
+        {
+            "Topic": "Candle in the wind",
+            "Mean Author": "Elton John",
+            "Other Author": "NONE",
+            "Year": "1987",
+            "Weeks": "14",
+            "Country": "Reino Unido",
+            "Language": "English",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "Quevedo: BZRP Music Sessions, Vol. 52",
+            "Mean Author": "Bizarrap ",
+            "Other Author": "Quevedo",
+            "Year": "2022",
+            "Weeks": "13",
+            "Country": "Argentina and Spain",
+            "Language": "Spanish",
+            "Continent": "South-America and Europe" 
+        },
+        {
+            "Topic": "La Bicicleta",
+            "Mean Author": "Carlos Vives",
+            "Other Author": "Shakira",
+            "Year": "2016",
+            "Weeks": "13",
+            "Country": "Colombia",
+            "Language": "Spanish",
+            "Continent": "South-America"
+        },
+        {
+            "Topic": "Lambada",
+            "Mean Author": "Kaoma",
+            "Other Author": "NONE",
+            "Year": "1989",
+            "Weeks": "13",
+            "Country": "Brasil",
+            "Language": "Portuguese",
+            "Continent": "South-America"
+        },
+        {
+            "Topic": "Duele El Corazón ",
+            "Mean Author": "Enrique Iglesias",
+            "Other Author": "Wisin",
+            "Year": "2016",
+            "Weeks": "12",
+            "Country": "España",
+            "Language": "Spanish",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "Mambo No. 5",
+            "Mean Author": "Lou Bega",
+            "Other Author": "NONE",
+            "Year": "1999",
+            "Weeks": "12",
+            "Country": "Alemania",
+            "Language": "English",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "Loca",
+            "Mean Author": "Shakira",
+            "Other Author": "NONE",
+            "Year": "2010",
+            "Weeks": "12",
+            "Country": "Colombia",
+            "Language": "Spanish",
+            "Continent": "South-America"
+        },
+        {
+            "Topic": "Always on My Mind",
+            "Mean Author": "Pet Shop Boys",
+            "Other Author": "NONE",
+            "Year": "1988",
+            "Weeks": "11",
+            "Country": "Reino Unido",
+            "Language": "English",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "La Gozadera",
+            "Mean Author": "Gente de Zona",
+            "Other Author": "Marc Anthony",
+            "Year": "2015",
+            "Weeks": "11",
+            "Country": "Cuba",
+            "Language": "Spanish",
+            "Continent": "Nord-America"
+        },
+        {
+            "Topic": "Infinity",
+            "Mean Author": "Guru Josh",
+            "Other Author": "NONE",
+            "Year": "1990",
+            "Weeks": "10",
+            "Country": "Reino Unido",
+            "Language": "English",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "Te Voy A Esperar ",
+            "Mean Author": "Juan Magán",
+            "Other Author": "Belinda",
+            "Year": "2012",
+            "Weeks": "10",
+            "Country": "España",
+            "Language": "Spanish",
+            "Continent": "Europe"
+        },
+        {
+            "Topic": "The Final Countdown",
+            "Mean Author": "Europe",
+            "Other Author": "NONE",
+            "Year": "1987",
+            "Weeks": "10",
+            "Country": "Sweden",
+            "Language": "English",
+            "Continent": "Europe"
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+Lliga Espanyola:
+	 Nombre de equips --> 20
+Equips i codi:
+	 Barcelona amb codi BAR

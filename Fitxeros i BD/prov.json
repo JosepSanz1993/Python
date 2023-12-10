@@ -1,0 +1,15 @@
+{
+    "prov":[
+        "Araba/Álava", "Albacete", "Alicante/Alacant", "Almería", "Asturias", "Ávila", "Badajoz", "Barcelona", "Burgos",
+        "Cáceres", "Cádiz", "Cantabria", "Castellón/Castelló", "Ciudad Real","Córdoba", "Cuenca", "Girona", "Granada", "Guadalajara",
+        "Gipuzkoa", "Huelva", "Huesca", "Balears, Illes","Jaén", "Rioja, La", "León", "Lugo","Madrid", "Málaga", "Murcia",
+        "Navarra", "Ourense", "Palencia", "Pontevedra", "Salamanca","Santa Cruz de Tenerife", "Segovia", "Sevilla", "Soria", "Tarragona",
+        "Teruel", "Toledo", "Valencia/València","Valladolid", "Bizkaia", "Zamora", "Zaragoza", "Ceuta", "Coruña, A", "Lleida", "Melilla", "Palmas, Las"
+    ],
+    "nickname":[
+        "Alb", "Alc","Alm","Ál","Ast","Áv","Bad","Bal","Brana","Vizc","Burg","Các","Cád","Cantb","Cast","Ceuta",
+        "C.Real","Córd","Coruña","Cuen","Guip","Gir","Gran","Guad","Hel","Hues","Jaén","León","Lér","Lugo","Mad",
+        "Mál","Ml","Mur","Nav","Or","Pal","Palmas","Po","Rioja","Sal","SCT","Seg","Sev","Sor","Ta","Ter","Tol",
+        "Val","Vall","Zam","Zar"
+    ]
+}

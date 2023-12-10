@@ -1,0 +1,40 @@
+{
+     "equip": [
+          {
+               "nom": "Atletic de Madrid",
+               "ciutat": "Madrid",
+               "posicio": "1",
+               "punts": "86"
+          },
+          {
+               "nom": "Real Madrid",
+               "ciutat": "Madrid",
+               "posicio": "2",
+               "punts": "84"
+          },
+          {
+               "nom": "FC Barcelona",
+               "ciutat": "Barcelona",
+               "posicio": "3",
+               "punts": "79"
+          },
+          {
+               "nom": "Sevilla FC",
+               "ciutat": "Sevilla",
+               "posicio": "4",
+               "punts": "77"
+          },
+          {
+               "nom": "Real Sociedad",
+               "ciutat": "San Sebastian",
+               "posicio": "5",
+               "punts": "62"
+          },
+          {
+               "nom": "Betis",
+               "ciutat": "Sevilla",
+               "posicio": "6",
+               "punts": "61"
+          }
+     ]
+}
